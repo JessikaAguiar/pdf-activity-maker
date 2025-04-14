@@ -10,12 +10,34 @@ caminho_pdf = "./import_pdf/ficai.pdf"
 # Lista para armazenar os dados de cada aluno
 dados_alunos = []
 
+# Define a ordem desejada das colunas
+colunas_ordem = [
+    "Matrícula", "Aluno", "Escola", "Etapa", "Nível/Fase", "Turma", "Turno",
+    "Professor", "Nome do Pai", "Nome da Mãe", "Endereço Residencial",
+    "Ponto de Referência", "Telefones", 
+    "Assessor Responsável Teleresgate", "Assessor Responsável Visita",
+    "Status"
+]
+
 with pdfplumber.open(caminho_pdf) as pdf:
     for pagina in pdf.pages:
         texto = pagina.extract_text()
         if texto:
             # Inicializa o dicionário para armazenar os dados do aluno
             dados = {}
+            linhas = texto.split("\n")
+
+            nome_pai = ""
+            nome_mae = ""
+            for i, linha in enumerate(linhas):
+                if "NOME DO PAI" in linha and i > 0:
+                    anterior = linhas[i - 1].strip()
+                    if anterior and "NOME" not in anterior:
+                        nome_pai = anterior
+                if "NOME DA MÃE" in linha and i > 0:
+                    anterior = linhas[i - 1].strip()
+                    if anterior and "ENDEREÇO" not in anterior:
+                        nome_mae = anterior
 
             # Expressões regulares para extrair as informações
             escola_info = re.search(r'NOME\s+\d+\s+-\s+(.*?)\s+-\s+POLO/DDZ:\s+(.*?)\n', texto)
@@ -24,8 +46,8 @@ with pdfplumber.open(caminho_pdf) as pdf:
             turma = re.search(r'TURMA\s+([A-Z])', texto)
             turno = re.search(r'TURNO\s+(\w+)', texto)
             professor = re.search(r'NOME DO PROFESSOR\s+(.*?)\n', texto)
-            pai = re.search(r'NOME DO PAI\s+([A-Z\s]+)', texto)
-            mae = re.search(r'NOME DA MÃE\s+([A-Z\s]+)', texto)
+            pai = re.search(r'NOME DO PAI\s+(.+)', texto)
+            mae = re.search(r'NOME DA MÃE\s+(.+)', texto)
             endereco = re.search(r'ENDEREÇO RESIDENCIAL\s+(.+)', texto)
             # Ponto de Referência
             referencia_match = re.search(r'PONTO DE REFERENCIA\s*(.*?)\n', texto)
@@ -60,41 +82,47 @@ with pdfplumber.open(caminho_pdf) as pdf:
             if professor:
                 dados['Professor'] = professor.group(1).strip()
             if pai:
-                dados['Nome do Pai'] = pai.group(1).strip()
+                nome_pai = pai.group(1).strip()
+                if nome_pai and not nome_pai.upper().startswith("NOME"):
+                    dados["Nome do Pai"] = nome_pai
+                else:
+                    dados["Nome do Pai"] = ""
+            else:
+                dados['Nome do Pai'] = ""
             if mae:
-                dados['Nome da Mãe'] = mae.group(1).strip()
+                nome_mae = mae.group(1).strip()
+                if nome_mae and not nome_mae.upper().startswith("ENDEREÇO"):
+                    dados["Nome da Mãe"] = nome_mae
+                else:
+                    dados["Nome da Mãe"] = ""
+            else:
+                dados['Nome da Mãe'] = ""
             if endereco:
                 dados['Endereço Residencial'] = endereco.group(1).strip()
             if referencia and not referencia.lower().startswith("fone"):
                 dados["Ponto de Referência"] = referencia
             if telefones:
-                fones = telefones.group(1).strip()
-                if fones.lower().startswith("fone:"):
-                    fones = fones[5:].strip()
-                dados["Telefones"] = fones
+                fones_texto = telefones.group(1)
+                numeros = re.findall(r'\b(?:\d{2}\s)?\d{4,5}\d{4}\b', fones_texto)
+                dados["Telefones"] = ", ".join(numeros)
+
             dados["Assessor Responsável Teleresgate"] = ""
             dados["Assessor Responsável Visita"] = ""
             dados["Status"] = ""
 
+            for coluna in colunas_ordem:
+                if coluna not in dados:
+                    dados[coluna] = ""
+
             # Adiciona o dicionário à lista se contiver dados
             if dados:
                 dados_alunos.append(dados)
-
-colunas_ordem = [
-    "Código", "Aluno", "Escola", "Etapa", "Nível/Fase", "Turma", "Turno",
-    "Professor", "Nome do Pai", "Nome da Mãe", "Endereço Residencial",
-    "Ponto de Referência", "Telefones", 
-    "Assessor Responsável Teleresgate", "Assessor Responsável Visita",
-    "Status"
-]
 
 # Cria um DataFrame com os dados
 df = pd.DataFrame(dados_alunos)[colunas_ordem]
 
 # Salva os dados em um arquivo Excel
 df.to_excel("./export/dados_ficai_alunos.xlsx", index=False)
-
-print("Arquivo 'dados_alunos.xlsx' criado com sucesso!")
 
 arquivo_excel = "./export/dados_ficai_alunos.xlsx"
 wb = load_workbook(arquivo_excel)
@@ -146,4 +174,4 @@ dv_assessor.ranges.add(f"{coluna_visita}{linha_inicial}:{coluna_visita}{linha_fi
 # Salva de novo o arquivo
 wb.save(arquivo_excel)
 
-print("Planilha criada com susseso")
+print("Arquivo 'dados_ficai_alunos.xlsx' criado com sucesso!")
