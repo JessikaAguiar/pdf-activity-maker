@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Caminho do CSV original
-csv_path = './import_csv/PSICOTXT_2156.csv'
+csv_path = './import_csv/PSICOTXT.csv'
 
 # Caminho do novo arquivo .xlsx
 xlsx_path = './export/PSICOTXT_convertido.xlsx'
