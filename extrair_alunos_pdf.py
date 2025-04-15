@@ -10,13 +10,12 @@ saida_excel = "./export/alunos_extraidos.xlsx"
 dados_alunos = []
 
 # Regex para capturar: Escola, Aluno, Nome, Motivo, Data Inc
-linha_regex = re.compile(r'(.+?)\s+(\d{7}-\d)\s+(.+?)\s+(ALU\.INFR)\s+(\d{2}/\d{2}/\d{4})')
+linha_regex = re.compile(r'(.+?)\s+(\d{7}-\d)\s+(.+?)\s+([A-Z\.]{3,10})\s+(\d{2}/\d{2}/\d{4})')
 
 with pdfplumber.open(pdf_path) as pdf:
     for i, pagina in enumerate(pdf.pages):
         texto = pagina.extract_text()
         if texto:
-            print(f"📄 Página {i+1} lida com sucesso.")
             for linha in texto.split("\n"):
                 match = linha_regex.match(linha)
                 if match:
@@ -32,9 +31,10 @@ with pdfplumber.open(pdf_path) as pdf:
                         "Motivo": motivo,
                         "Data Inc": data_inc
                     })
+                    print(nome, escola, motivo)
                 # debug opcional
-                else:
-                    print("❌ Não casou:", linha)
+                # else:
+                #     print("❌ Não casou:", linha)
         else:
             print(f"⚠️ Nada extraído da página {i+1}!")
 

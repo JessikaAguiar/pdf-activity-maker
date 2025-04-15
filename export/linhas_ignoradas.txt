@@ -1,0 +1,1483 @@
+[atendimento_001.png] NATNO012D - INICIO DO ARQUIVO
+[atendimento_001.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP 15/04/2025
+[atendimento_001.png] 0001/0933 001/072
+[atendimento_001.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_001.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_001.png] ESCOLA ALUNO NOME MOTIVO DATA INC
+[atendimento_001.png] E.M. RAIMUNDA NONATA 3035188-0 DAVI LEVY DE LIMA SOUZA —IND.TDAH 01/04/2025
+[atendimento_001.png] E.M. FRANCINETE BRAS 2452997-4 AYUMI SOPHIA SANTOS DOS —DIF.APRE 01/04/2025
+[atendimento_001.png] COMANDO ==> | | PA2 ENCERRA
+[atendimento_001.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM 6 IMPRIME
+[atendimento_001.png] 7 -PAGINA 8 +PAGINA 9 10 11 12
+[atendimento_001.png] A ; ' = CN POR ” 01:04
+[atendimento_001.png] EM Q PESQUISAR - O - > ú SE FS 15/04/2025
+[atendimento_002.png] GESC/TRIAGEM
+[atendimento_002.png] 0014/0933
+[atendimento_002.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_002.png] PóLO: 7 CEMASP LESTE II
+[atendimento_002.png] ESCOLA
+[atendimento_002.png] RAIMUNDA
+[atendimento_002.png] RAIMUNDA
+[atendimento_002.png] RAIMUNDA
+[atendimento_002.png] IGNES DE
+[atendimento_002.png] RAIMUNDA
+[atendimento_002.png] RAIMUNDA
+[atendimento_002.png] RAIMUNDA
+[atendimento_002.png] RAIMUNDA
+[atendimento_002.png] MMMMMMMMMMMMMMMMM
+[atendimento_002.png] Z ZZZZZZZZZZZ
+[atendimento_002.png] M. FRANCINETE BRAS
+[atendimento_002.png] FRANCINETE BRAS
+[atendimento_002.png] FRANCINETE BRAS
+[atendimento_002.png] FRANCINETE BRAS
+[atendimento_002.png] FRANCINETE BRAS
+[atendimento_002.png] NONATA
+[atendimento_002.png] NONATA
+[atendimento_002.png] NONATA
+[atendimento_002.png] VASCON
+[atendimento_002.png] NONATA
+[atendimento_002.png] NONATA
+[atendimento_002.png] NONATA
+[atendimento_002.png] NONATA
+[atendimento_002.png] COMANDO ==> |
+[atendimento_002.png] PF 1 AJUDA
+[atendimento_002.png] 7 -PAGINA
+[atendimento_002.png] 2 MENU
+[atendimento_002.png] TRIAGEM DE ENCAMINHAMENTOS ASP 15/04/2025
+[atendimento_002.png] 002/072
+[atendimento_002.png] STATUS: 1 ENCAMINHADO
+[atendimento_002.png] ALUNO NOME MOTIVO DATA INC
+[atendimento_002.png] | PA2 ENCERRA
+[atendimento_002.png] 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM 6 IMPRIME
+[atendimento_002.png] 10 11 12
+[atendimento_002.png] 8 +PAGINA 9
+[atendimento_002.png] EM Q PESQUISAR
+[atendimento_002.png] AOMERIçSO
+[atendimento_002.png] A
+[atendimento_002.png] POR
+[atendimento_002.png] PTB
+[atendimento_002.png] F1 T
+[atendimento_002.png] 01:04
+[atendimento_002.png] 15/04/2025
+[atendimento_003.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP 15/04/2025
+[atendimento_003.png] 0027/0933 003/072
+[atendimento_003.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_003.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_003.png] ESCOLA ALUNO NOME MOTIVO DATA INC
+[atendimento_003.png] COMANDO ==> | | PA2 ENCERRA
+[atendimento_003.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM 6 IMPRIME
+[atendimento_003.png] 7 -PAGINA 8 +PAGINA 9 10 11 12
+[atendimento_003.png] A ; ' = CN POR ” 01:04
+[atendimento_003.png] EM Q PESQUISAR - O - > ú SE FS 15/04/2025
+[atendimento_004.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP 15/04/2025
+[atendimento_004.png] 0040/0933 004/072
+[atendimento_004.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_004.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_004.png] ESCOLA ALUNO NOME MOTIVO DATA INC
+[atendimento_004.png] COMANDO ==> | | PA2 ENCERRA
+[atendimento_004.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM 6 IMPRIME
+[atendimento_004.png] 7 -PAGINA 8 +PAGINA 9 10 11 12
+[atendimento_004.png] A ; ' = CN POR ” 01:04
+[atendimento_004.png] EM Q PESQUISAR - O - > ú SE FS 15/04/2025
+[atendimento_005.png] GESC/TRIAGEM
+[atendimento_005.png] 0053/0933
+[atendimento_005.png] TRIAGEM DE ENCAMINHAMENTOS ASP
+[atendimento_005.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_005.png] PóLO: 7 CEMASP LESTE II
+[atendimento_005.png] STATUS: 1 ENCAMINHADO
+[atendimento_005.png] 15/04/2025
+[atendimento_005.png] 005/072
+[atendimento_005.png] DATA INC
+[atendimento_005.png] /04/2025
+[atendimento_005.png] /04/2025
+[atendimento_005.png] /04/2025
+[atendimento_005.png] /04/2025
+[atendimento_005.png] /04/2025
+[atendimento_005.png] /04/2025
+[atendimento_005.png] /04/2025
+[atendimento_005.png] /04/2025
+[atendimento_005.png] /04/2025
+[atendimento_005.png] /04/2025
+[atendimento_005.png] /04/2025
+[atendimento_005.png] /04/2025
+[atendimento_005.png] /04/2025
+[atendimento_005.png] COOOOOOOOOOOOOOOO
+[atendimento_005.png] PA2 ENCERRA
+[atendimento_005.png] 6 IMPRIME
+[atendimento_005.png] ESCOLA ALUNO NOME MOTIVO
+[atendimento_005.png] COMANDO ==> |
+[atendimento_005.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM
+[atendimento_005.png] 7 -PAGINA 8 +PAGINA 9 10 11
+[atendimento_005.png] Q PESQUISAR
+[atendimento_005.png] 12
+[atendimento_005.png] AOMERIçSO
+[atendimento_005.png] A
+[atendimento_005.png] POR
+[atendimento_005.png] PTB
+[atendimento_005.png] F1 T
+[atendimento_005.png] 01:04
+[atendimento_005.png] 15/04/2025
+[atendimento_006.png] GESC/TRIAGEM
+[atendimento_006.png] 0066/0933
+[atendimento_006.png] TRIAGEM DE ENCAMINHAMENTOS ASP
+[atendimento_006.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_006.png] PóLO: 7 CEMASP LESTE II
+[atendimento_006.png] STATUS: 1 ENCAMINHADO
+[atendimento_006.png] 15/04/2025
+[atendimento_006.png] 006/072
+[atendimento_006.png] DATA INC
+[atendimento_006.png] /04/2025
+[atendimento_006.png] /04/2025
+[atendimento_006.png] /04/2025
+[atendimento_006.png] /04/2025
+[atendimento_006.png] /04/2025
+[atendimento_006.png] /04/2025
+[atendimento_006.png] /04/2025
+[atendimento_006.png] /04/2025
+[atendimento_006.png] /04/2025
+[atendimento_006.png] /04/2025
+[atendimento_006.png] /04/2025
+[atendimento_006.png] /04/2025
+[atendimento_006.png] /04/2025
+[atendimento_006.png] COOOOOOOOOOOOOOOO
+[atendimento_006.png] PA2 ENCERRA
+[atendimento_006.png] 6 IMPRIME
+[atendimento_006.png] ESCOLA ALUNO NOME MOTIVO
+[atendimento_006.png] COMANDO ==> |
+[atendimento_006.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM
+[atendimento_006.png] 7 -PAGINA 8 +PAGINA 9 10 11
+[atendimento_006.png] Q PESQUISAR
+[atendimento_006.png] 12
+[atendimento_006.png] AOMERIçSO
+[atendimento_006.png] A
+[atendimento_006.png] POR
+[atendimento_006.png] PTB
+[atendimento_006.png] F1 T
+[atendimento_006.png] 01:04
+[atendimento_006.png] 15/04/2025
+[atendimento_007.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP 15/04/2025
+[atendimento_007.png] 0079/0933 007/072
+[atendimento_007.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_007.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_007.png] ESCOLA ALUNO NOME MOTIVO DATA INC
+[atendimento_007.png] COMANDO ==> | | PA2 ENCERRA
+[atendimento_007.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM 6 IMPRIME
+[atendimento_007.png] 7 -PAGINA 8 +PAGINA 9 10 11 12
+[atendimento_007.png] =M & ' — CM POR . 01:05
+[atendimento_007.png] EM Q PESQUISAR - O - > ú SE FS 15/04/2025
+[atendimento_008.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP 15/04/2025
+[atendimento_008.png] 0092/0933 008/072
+[atendimento_008.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_008.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_008.png] ESCOLA ALUNO NOME MOTIVO DATA INC
+[atendimento_008.png] E.M. DOM JACSON DAMA 2366376-6 WESLEY DE SOUZA MACHADO —ALU.INFR 01/04/2025
+[atendimento_008.png] COMANDO ==> | | PA2 ENCERRA
+[atendimento_008.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM 6 IMPRIME
+[atendimento_008.png] 7 -PAGINA 8 +PAGINA 9 10 11 12
+[atendimento_008.png] =M & ' — CM POR . 01:05
+[atendimento_008.png] EM Q PESQUISAR - O - > ú SE FS 15/04/2025
+[atendimento_009.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP 15/04/2025
+[atendimento_009.png] 0105/0933 009/072
+[atendimento_009.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_009.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_009.png] ESCOLA ALUNO NOME MOTIVO DATA INC
+[atendimento_009.png] COMANDO ==> | | PA2 ENCERRA
+[atendimento_009.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM 6 IMPRIME
+[atendimento_009.png] 7 -PAGINA 8 +PAGINA 9 10 11 12
+[atendimento_009.png] EE Q PESQUISAR ENEOM ' E X º O MM FD 15/04/ºZLO:Gª
+[atendimento_010.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP 15/04/2025
+[atendimento_010.png] 0118/0933 010/072
+[atendimento_010.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_010.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_010.png] ESCOLA ALUNO NOME MOTIVO DATA INC
+[atendimento_010.png] COMANDO ==> | | PA2 ENCERRA
+[atendimento_010.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM 6 IMPRIME
+[atendimento_010.png] 7 -PAGINA 8 +PAGINA 9 10 11 12
+[atendimento_010.png] EE Q PESQUISAR ENEOM ' E X º O MM FD 15/04/ºZLO:Gª
+[atendimento_011.png] 15/04/2025
+[atendimento_011.png] 011/072
+[atendimento_011.png] DATA INC
+[atendimento_011.png] 02/04/2025
+[atendimento_011.png] 02/04/2025
+[atendimento_011.png] 02/04/2025
+[atendimento_011.png] 02/04/2025
+[atendimento_011.png] 02/04/2025
+[atendimento_011.png] 02/04/2025
+[atendimento_011.png] 02/04/2025
+[atendimento_011.png] 02/04/2025
+[atendimento_011.png] 02/04/2025
+[atendimento_011.png] 02/04/2025
+[atendimento_011.png] 02/04/2025
+[atendimento_011.png] 02/04/2025
+[atendimento_011.png] 02/04/2025
+[atendimento_011.png] PA2 ENCERRA
+[atendimento_011.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP
+[atendimento_011.png] 0131/0933
+[atendimento_011.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_011.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_011.png] ESCOLA ALUNO NOME MOTIVO
+[atendimento_011.png] COMANDO ==> |
+[atendimento_011.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM
+[atendimento_011.png] 7 -PAGINA 8 +PAGINA 9 10 11
+[atendimento_011.png] 6 IMPRIME
+[atendimento_011.png] 12
+[atendimento_011.png] == Q PESQUISAR - (/ ) — -' ? 4 ç
+[atendimento_011.png] A
+[atendimento_011.png] POR
+[atendimento_011.png] PTB
+[atendimento_011.png] F1 T
+[atendimento_011.png] 01:05
+[atendimento_011.png] 15/04/2025
+[atendimento_012.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP 15/04/2025
+[atendimento_012.png] 0144/0933 012/072
+[atendimento_012.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_012.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_012.png] ESCOLA ALUNO NOME MOTIVO DATA INC
+[atendimento_012.png] COMANDO ==> | | PA2 ENCERRA
+[atendimento_012.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM 6 IMPRIME
+[atendimento_012.png] 7 -PAGINA 8 +PAGINA 9 10 11 12
+[atendimento_012.png] =M & ' — CM POR . 01:05
+[atendimento_012.png] EM Q PESQUISAR - O - > ú SE FS 15/04/2025
+[atendimento_013.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP 15/04/2025
+[atendimento_013.png] 0157/0933 013/072
+[atendimento_013.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_013.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_013.png] ESCOLA ALUNO NOME MOTIVO DATA INC
+[atendimento_013.png] COMANDO ==> | | PA2 ENCERRA
+[atendimento_013.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM 6 IMPRIME
+[atendimento_013.png] 7 -PAGINA 8 +PAGINA 9 10 11 12
+[atendimento_013.png] EE Q PESQUISAR ENEOM ' E X º O MM FD 15/04/ºZLO:Gª
+[atendimento_014.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP 15/04/2025
+[atendimento_014.png] 0170/0933 014/072
+[atendimento_014.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_014.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_014.png] ESCOLA ALUNO NOME MOTIVO DATA INC
+[atendimento_014.png] E.M. RAIMUNDA NONATA 2862053-4 AYLLA STHEFANE DE SOUZA —DIF.FONO 02/04/2025
+[atendimento_014.png] COMANDO ==> | | PA2 ENCERRA
+[atendimento_014.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM 6 IMPRIME
+[atendimento_014.png] 7 -PAGINA 8 +PAGINA 9 10 11 12
+[atendimento_014.png] EE Q PESQUISAR ENEOM ' E X º O MM FD 15/04/ºZLO:Gª
+[atendimento_015.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP 15/04/2025
+[atendimento_015.png] 0183/0933 015/072
+[atendimento_015.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_015.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_015.png] ESCOLA ALUNO NOME MOTIVO DATA INC
+[atendimento_015.png] COMANDO ==> [ | PA2 ENCERRA
+[atendimento_015.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM 6 IMPRIME
+[atendimento_015.png] 7 -PAGINA 8 +PAGINA 9 10 11 12
+[atendimento_015.png] == Q PESQUISAR - (/ ) — -' ? 4 ç
+[atendimento_015.png] A
+[atendimento_015.png] POR
+[atendimento_015.png] PTB
+[atendimento_015.png] F1 T
+[atendimento_015.png] 01:05
+[atendimento_015.png] 15/04/2025
+[atendimento_016.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP 15/04/2025
+[atendimento_016.png] 0196/0933 016/072
+[atendimento_016.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_016.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_016.png] ESCOLA ALUNO NOME MOTIVO DATA INC
+[atendimento_016.png] MMMMMMM
+[atendimento_016.png] Z ZZZZ
+[atendimento_016.png] COMANDO ==> | | PA2 ENCERRA
+[atendimento_016.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM 6 IMPRIME
+[atendimento_016.png] 7 -PAGINA 8 +PAGINA 9 10 11 12
+[atendimento_016.png] =M & ' — CM POR . 01:05
+[atendimento_016.png] EM Q PESQUISAR - O - > ú SE FS 15/04/2025
+[atendimento_017.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP 15/04/2025
+[atendimento_017.png] 0209/0933 017/072
+[atendimento_017.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_017.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_017.png] ESCOLA ALUNO NOME MOTIVO DATA INC
+[atendimento_017.png] COMANDO ==> | | PA2 ENCERRA
+[atendimento_017.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM 6 IMPRIME
+[atendimento_017.png] 7 -PAGINA 8 +PAGINA 9 10 11 12
+[atendimento_017.png] =M & ' — CM POR . 01:05
+[atendimento_017.png] EM Q PESQUISAR - O - > ú SE FS 15/04/2025
+[atendimento_018.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP 15/04/2025
+[atendimento_018.png] 0222/0933 018/072
+[atendimento_018.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_018.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_018.png] ESCOLA ALUNO NOME MOTIVO DATA INC
+[atendimento_018.png] COMANDO ==> | | PA2 ENCERRA
+[atendimento_018.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM 6 IMPRIME
+[atendimento_018.png] 7 -PAGINA 8 +PAGINA 9 10 11 12
+[atendimento_018.png] EE Q PESQUISAR ENEOM ' E X º O MM FD 15/04/ºZLO:Gª
+[atendimento_019.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP 15/04/2025
+[atendimento_019.png] 0235/0933 019/072
+[atendimento_019.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_019.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_019.png] ESCOLA ALUNO NOME MOTIVO DATA INC
+[atendimento_019.png] COMANDO ==> | | PA2 ENCERRA
+[atendimento_019.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM 6 IMPRIME
+[atendimento_019.png] 7 -PAGINA 8 +PAGINA 9 10 11 12
+[atendimento_019.png] =M & ' — CM POR . 01:05
+[atendimento_019.png] EM Q PESQUISAR - O - > ú SE FS 15/04/2025
+[atendimento_020.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP
+[atendimento_020.png] 15/04/2025
+[atendimento_020.png] 020/072
+[atendimento_020.png] DATA INC
+[atendimento_020.png] 02/04/2025
+[atendimento_020.png] 02/04/2025
+[atendimento_020.png] 02/04/2025
+[atendimento_020.png] 02/04/2025
+[atendimento_020.png] 02/04/2025
+[atendimento_020.png] 02/04/2025
+[atendimento_020.png] 02/04/2025
+[atendimento_020.png] 02/04/2025
+[atendimento_020.png] 02/04/2025
+[atendimento_020.png] 02/04/2025
+[atendimento_020.png] 02/04/2025
+[atendimento_020.png] 02/04/2025
+[atendimento_020.png] 02/04/2025
+[atendimento_020.png] PA2 ENCERRA
+[atendimento_020.png] 0248/0933
+[atendimento_020.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_020.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_020.png] ESCOLA ALUNO NOME MOTIVO
+[atendimento_020.png] COMANDO ==> |
+[atendimento_020.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM
+[atendimento_020.png] 7 -PAGINA 8 +PAGINA 9 10 11
+[atendimento_020.png] 6 IMPRIME
+[atendimento_020.png] 12
+[atendimento_020.png] == Q PESQUISAR - (/ ) — -' ? 4 ç
+[atendimento_020.png] A
+[atendimento_020.png] POR
+[atendimento_020.png] PTB
+[atendimento_020.png] F1 T
+[atendimento_020.png] 01:05
+[atendimento_020.png] 15/04/2025
+[atendimento_021.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP 15/04/2025
+[atendimento_021.png] 0261/0933 021/072
+[atendimento_021.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_021.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_021.png] ESCOLA ALUNO NOME MOTIVO DATA INC
+[atendimento_021.png] COMANDO ==> | | PA2 ENCERRA
+[atendimento_021.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM 6 IMPRIME
+[atendimento_021.png] 7 -PAGINA 8 +PAGINA 9 10 11 12
+[atendimento_021.png] EM Q PESQUISAR
+[atendimento_021.png] AOMERIçSO
+[atendimento_021.png] A
+[atendimento_021.png] POR
+[atendimento_021.png] PTB
+[atendimento_021.png] F1 T
+[atendimento_021.png] 01:05
+[atendimento_021.png] 15/04/2025
+[atendimento_022.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP 15/04/2025
+[atendimento_022.png] 0274/0933 022/072
+[atendimento_022.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_022.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_022.png] ESCOLA ALUNO NOME MOTIVO DATA INC
+[atendimento_022.png] E.M. N. SRA. DO ROSA 2860063-0 AYLLA EMANUELLY MIRANDA —ALU.INFR 02/04/2025
+[atendimento_022.png] COMANDO ==> | | PA2 ENCERRA
+[atendimento_022.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM 6 IMPRIME
+[atendimento_022.png] 7 -PAGINA 8 +PAGINA 9 10 11 12
+[atendimento_022.png] =M & ' — CM POR . 01:05
+[atendimento_022.png] EM Q PESQUISAR - O - > ú SE FS 15/04/2025
+[atendimento_023.png] GESC/TRIAGEM
+[atendimento_023.png] 0287/0933
+[atendimento_023.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_023.png] PóLO: 7 CEMASP LESTE II
+[atendimento_023.png] ESCOLA
+[atendimento_023.png] MMMMMMMMMM
+[atendimento_023.png] Z ZZZZZZZ
+[atendimento_023.png] -M.
+[atendimento_023.png] CMEI
+[atendimento_023.png] E.M.
+[atendimento_023.png] M. ELIANA
+[atendimento_023.png] - ARTHUR
+[atendimento_023.png] - LUCILENE GUIMAR
+[atendimento_023.png] - LUCILENE GUIMAR
+[atendimento_023.png] - HIRAN CAMINHA
+[atendimento_023.png] - DANILO
+[atendimento_023.png] - ARTHUR
+[atendimento_023.png] - ELIANA
+[atendimento_023.png] - ARTHUR
+[atendimento_023.png] ELIANA
+[atendimento_023.png] MARIETE CARNEIR
+[atendimento_023.png] HIRAN CAMINHA
+[atendimento_023.png] CMEI MARIETE CARNEIR
+[atendimento_023.png] COMANDO ==> |
+[atendimento_023.png] PF 1 AJUDA
+[atendimento_023.png] 7 -PAGINA
+[atendimento_023.png] TRIAGEM DE ENCAMINHAMENTOS ASP
+[atendimento_023.png] STATUS: 1 ENCAMINHADO
+[atendimento_023.png] 15/04/2025
+[atendimento_023.png] 023/072
+[atendimento_023.png] DATA INC
+[atendimento_023.png] 02/04/2025
+[atendimento_023.png] 02/04/2025
+[atendimento_023.png] 02/04/2025
+[atendimento_023.png] 02/04/2025
+[atendimento_023.png] 02/04/2025
+[atendimento_023.png] 02/04/2025
+[atendimento_023.png] 02/04/2025
+[atendimento_023.png] 02/04/2025
+[atendimento_023.png] 02/04/2025
+[atendimento_023.png] 02/04/2025
+[atendimento_023.png] 02/04/2025
+[atendimento_023.png] 02/04/2025
+[atendimento_023.png] 02/04/2025
+[atendimento_023.png] PA2 ENCERRA
+[atendimento_023.png] ALUNO NOME MOTIVO
+[atendimento_023.png] |
+[atendimento_023.png] 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM
+[atendimento_023.png] 8 +PAGINA 9
+[atendimento_023.png] EM Q PESQUISAR
+[atendimento_023.png] 10 11
+[atendimento_023.png] 6 IMPRIME
+[atendimento_023.png] 12
+[atendimento_023.png] AOMERIçSO
+[atendimento_023.png] A
+[atendimento_023.png] POR
+[atendimento_023.png] PTB
+[atendimento_023.png] F1 T
+[atendimento_023.png] 01:05
+[atendimento_023.png] 15/04/2025
+[atendimento_024.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP 15/04/2025
+[atendimento_024.png] 0300/0933 024/072
+[atendimento_024.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_024.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_024.png] ESCOLA ALUNO NOME MOTIVO DATA INC
+[atendimento_024.png] E
+[atendimento_024.png] COMANDO ==> [ | PA2 ENCERRA
+[atendimento_024.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM 6 IMPRIME
+[atendimento_024.png] 7 -PAGINA 8 +PAGINA 9 10 11 12
+[atendimento_024.png] =M & ' — CM POR . 01:05
+[atendimento_024.png] EM Q PESQUISAR - O - > ú SE FS 15/04/2025
+[atendimento_025.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP 15/04/2025
+[atendimento_025.png] [OENETÁNCEE) 025/072
+[atendimento_025.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_025.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_025.png] ESCOLA ALUNO NOME MOTIVO DATA INC
+[atendimento_025.png] E.M. SAO SEBASTIAO 3012957-5 EMILLY MANUELA DE OLIVA —DIF.APRE 02/04/2025
+[atendimento_025.png] COMANDO ==> | | PA2 ENCERRA
+[atendimento_025.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM 6 IMPRIME
+[atendimento_025.png] 7 -PAGINA 8 +PAGINA 9 10 11 12
+[atendimento_025.png] == Q PESQUISAR - (/ ) — -' ? 4 ç
+[atendimento_025.png] A
+[atendimento_025.png] POR
+[atendimento_025.png] PTB
+[atendimento_025.png] F1 T
+[atendimento_025.png] 01:05
+[atendimento_025.png] 15/04/2025
+[atendimento_026.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP 15/04/2025
+[atendimento_026.png] 0326/0933 026/072
+[atendimento_026.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_026.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_026.png] ESCOLA ALUNO NOME MOTIVO DATA INC
+[atendimento_026.png] COMANDO ==> | | PA2 ENCERRA
+[atendimento_026.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM 6 IMPRIME
+[atendimento_026.png] 7 -PAGINA 8 +PAGINA 9 10 11 12
+[atendimento_026.png] EE Q PESQUISAR ENEOM ' E X º O MM FD 15/04/ºZLO:Gª
+[atendimento_027.png] GESC/TRIAGEM
+[atendimento_027.png] 0339/0933
+[atendimento_027.png] TRIAGEM DE ENCAMINHAMENTOS ASP
+[atendimento_027.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_027.png] PóLO: 7 CEMASP LESTE II
+[atendimento_027.png] STATUS: 1 ENCAMINHADO
+[atendimento_027.png] 15/04/2025
+[atendimento_027.png] 027/072
+[atendimento_027.png] DATA INC
+[atendimento_027.png] 02/04/2025
+[atendimento_027.png] 02/04/2025
+[atendimento_027.png] 02/04/2025
+[atendimento_027.png] 02/04/2025
+[atendimento_027.png] 02/04/2025
+[atendimento_027.png] 02/04/2025
+[atendimento_027.png] 02/04/2025
+[atendimento_027.png] 02/04/2025
+[atendimento_027.png] 02/04/2025
+[atendimento_027.png] 02/04/2025
+[atendimento_027.png] 02/04/2025
+[atendimento_027.png] 02/04/2025
+[atendimento_027.png] 02/04/2025
+[atendimento_027.png] PA2 ENCERRA
+[atendimento_027.png] 6 IMPRIME
+[atendimento_027.png] ESCOLA ALUNO NOME MOTIVO
+[atendimento_027.png] COMANDO ==> |
+[atendimento_027.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM
+[atendimento_027.png] 7 -PAGINA 8 +PAGINA 9 10 11
+[atendimento_027.png] EM Q PESQUISAR
+[atendimento_027.png] 12
+[atendimento_027.png] AOMERIçSO
+[atendimento_027.png] A
+[atendimento_027.png] POR
+[atendimento_027.png] PTB
+[atendimento_027.png] F1 T
+[atendimento_027.png] 01:05
+[atendimento_027.png] 15/04/2025
+[atendimento_028.png] EM Q PESQUISAR
+[atendimento_028.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP 15/04/2025
+[atendimento_028.png] 0352/0933 028/072
+[atendimento_028.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_028.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_028.png] ESCOLA ALUNO NOME MOTIVO DATA INC
+[atendimento_028.png] E.M. ALVARO CESAR 2672460-0 CLARISSE TERCO DA SILVA —DIF.APRE 02/04/2025
+[atendimento_028.png] COMANDO ==> | | PA2 ENCERRA
+[atendimento_028.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM 6 IMPRIME
+[atendimento_028.png] 7 -PAGINA 8 +PAGINA 9 10 11 12
+[atendimento_028.png] AOMERIçSO
+[atendimento_028.png] A
+[atendimento_028.png] POR
+[atendimento_028.png] PTB
+[atendimento_028.png] F1 T
+[atendimento_028.png] 01:05
+[atendimento_028.png] 15/04/2025
+[atendimento_029.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP 15/04/2025
+[atendimento_029.png] 0365/0933 029/072
+[atendimento_029.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_029.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_029.png] ESCOLA ALUNO NOME MOTIVO DATA INC
+[atendimento_029.png] COMANDO ==> | | PA2 ENCERRA
+[atendimento_029.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM 6 IMPRIME
+[atendimento_029.png] 7 -PAGINA 8 +PAGINA 9 10 11 12
+[atendimento_029.png] == Q PESQUISAR - (/ ) — -' ? 4 ç
+[atendimento_029.png] A
+[atendimento_029.png] POR
+[atendimento_029.png] PTB
+[atendimento_029.png] F1 T
+[atendimento_029.png] 01:05
+[atendimento_029.png] 15/04/2025
+[atendimento_030.png] GESC/TRIAGEM
+[atendimento_030.png] 0378/0933
+[atendimento_030.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_030.png] PóLO: 7 CEMASP LESTE II
+[atendimento_030.png] TRIAGEM DE ENCAMINHAMENTOS ASP
+[atendimento_030.png] STATUS: 1 ENCAMINHADO
+[atendimento_030.png] 15/04/2025
+[atendimento_030.png] 030/072
+[atendimento_030.png] DATA INC
+[atendimento_030.png] 02/04/2025
+[atendimento_030.png] 02/04/2025
+[atendimento_030.png] 02/04/2025
+[atendimento_030.png] 02/04/2025
+[atendimento_030.png] 02/04/2025
+[atendimento_030.png] 02/04/2025
+[atendimento_030.png] 02/04/2025
+[atendimento_030.png] 02/04/2025
+[atendimento_030.png] 02/04/2025
+[atendimento_030.png] 02/04/2025
+[atendimento_030.png] 02/04/2025
+[atendimento_030.png] 02/04/2025
+[atendimento_030.png] 02/04/2025
+[atendimento_030.png] PA2 ENCERRA
+[atendimento_030.png] 6 IMPRIME
+[atendimento_030.png] ESCOLA ALUNO NOME MOTIVO
+[atendimento_030.png] COMANDO ==> |
+[atendimento_030.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM
+[atendimento_030.png] 7 -PAGINA 8 +PAGINA 9 10 11
+[atendimento_030.png] EM Q PESQUISAR
+[atendimento_030.png] 12
+[atendimento_030.png] AOMERIçSO
+[atendimento_030.png] A
+[atendimento_030.png] POR
+[atendimento_030.png] PTB
+[atendimento_030.png] F1 T
+[atendimento_030.png] 01:05
+[atendimento_030.png] 15/04/2025
+[atendimento_031.png] GESC/TRIAGEM
+[atendimento_031.png] 0391/0933
+[atendimento_031.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_031.png] PóLO: 7 CEMASP LESTE II
+[atendimento_031.png] TRIAGEM DE ENCAMINHAMENTOS ASP
+[atendimento_031.png] STATUS: 1 ENCAMINHADO
+[atendimento_031.png] 15/04/2025
+[atendimento_031.png] 031/072
+[atendimento_031.png] DATA INC
+[atendimento_031.png] 02/04/2025
+[atendimento_031.png] 02/04/2025
+[atendimento_031.png] 02/04/2025
+[atendimento_031.png] 02/04/2025
+[atendimento_031.png] 02/04/2025
+[atendimento_031.png] 02/04/2025
+[atendimento_031.png] 02/04/2025
+[atendimento_031.png] 02/04/2025
+[atendimento_031.png] 02/04/2025
+[atendimento_031.png] 02/04/2025
+[atendimento_031.png] 02/04/2025
+[atendimento_031.png] 02/04/2025
+[atendimento_031.png] 02/04/2025
+[atendimento_031.png] PA2 ENCERRA
+[atendimento_031.png] 6 IMPRIME
+[atendimento_031.png] ESCOLA ALUNO NOME MOTIVO
+[atendimento_031.png] COMANDO ==> |
+[atendimento_031.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM
+[atendimento_031.png] 7 -PAGINA 8 +PAGINA 9 10 11
+[atendimento_031.png] EM Q PESQUISAR
+[atendimento_031.png] 12
+[atendimento_031.png] AOMERIçSO
+[atendimento_031.png] A
+[atendimento_031.png] POR
+[atendimento_031.png] PTB
+[atendimento_031.png] F1 T
+[atendimento_031.png] 01:05
+[atendimento_031.png] 15/04/2025
+[atendimento_032.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP 15/04/2025
+[atendimento_032.png] 0404/0933 032/072
+[atendimento_032.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_032.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_032.png] ESCOLA ALUNO NOME MOTIVO DATA INC
+[atendimento_032.png] E.M. RAIMUNDA NONATA 3172726-3 ARTHUR GIOVANI CESAR MOT DIF.CCOMP 02/04/2025
+[atendimento_032.png] COMANDO ==> | | PA2 ENCERRA
+[atendimento_032.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM 6 IMPRIME
+[atendimento_032.png] 7 -PAGINA 8 +PAGINA 9 10 11 12
+[atendimento_032.png] EE Q PESQUISAR ENEOM ' E X º O MM FD 15/04/ºZLO:Gª
+[atendimento_033.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP 15/04/2025
+[atendimento_033.png] 0417/0933 033/072
+[atendimento_033.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_033.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_033.png] ESCOLA ALUNO NOME MOTIVO DATA INC
+[atendimento_033.png] COMANDO ==> | | PA2 ENCERRA
+[atendimento_033.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM 6 IMPRIME
+[atendimento_033.png] 7 -PAGINA 8 +PAGINA 9 10 11 12
+[atendimento_033.png] =M & ' — CM POR . 01:05
+[atendimento_033.png] EM Q PESQUISAR - O - > ú SE FS 15/04/2025
+[atendimento_034.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP 15/04/2025
+[atendimento_034.png] 0430/0933 034/072
+[atendimento_034.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_034.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_034.png] ESCOLA ALUNO NOME MOTIVO DATA INC
+[atendimento_034.png] E.M. ALVARO CESAR 2284312-4 ANTONIO MAXIMUS BARBOSA —DIF.APRE 02/04/2025
+[atendimento_034.png] COMANDO ==> | | PA2 ENCERRA
+[atendimento_034.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM 6 IMPRIME
+[atendimento_034.png] 7 -PAGINA 8 +PAGINA 9 10 11 12
+[atendimento_034.png] =M & ' — CM POR . 01:06
+[atendimento_034.png] EM Q PESQUISAR - O - > ú SE FS 15/04/2025
+[atendimento_035.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP 15/04/2025
+[atendimento_035.png] 0443/0933 035/072
+[atendimento_035.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_035.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_035.png] ESCOLA ALUNO NOME MOTIVO DATA INC
+[atendimento_035.png] E. M. ERICK VICENTE . 3072012-5 EDUARDO DE SOUZA VULN.SOOC 02/04/2025
+[atendimento_035.png] COMANDO ==> | | PA2 ENCERRA
+[atendimento_035.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM 6 IMPRIME
+[atendimento_035.png] 7 -PAGINA 8 +PAGINA 9 10 11 12
+[atendimento_035.png] EE Q PESQUISAR ENEOM ' E X º O MM FD 15/04/021622
+[atendimento_036.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP 15/04/2025
+[atendimento_036.png] 0456/0933 036/072
+[atendimento_036.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_036.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_036.png] ESCOLA ALUNO NOME MOTIVO DATA INC
+[atendimento_036.png] COMANDO ==> | | PA2 ENCERRA
+[atendimento_036.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM 6 IMPRIME
+[atendimento_036.png] 7 -PAGINA 8 +PAGINA 9 10 11 12
+[atendimento_036.png] EM Q PESQUISAR
+[atendimento_036.png] AOMERIçSO
+[atendimento_036.png] A
+[atendimento_036.png] POR
+[atendimento_036.png] PTB
+[atendimento_036.png] F1 T
+[atendimento_036.png] 01:06
+[atendimento_036.png] 15/04/2025
+[atendimento_037.png] 15/04/2025
+[atendimento_037.png] 037/072
+[atendimento_037.png] DATA INC
+[atendimento_037.png] 02/04/2025
+[atendimento_037.png] 02/04/2025
+[atendimento_037.png] 02/04/2025
+[atendimento_037.png] 02/04/2025
+[atendimento_037.png] 02/04/2025
+[atendimento_037.png] 02/04/2025
+[atendimento_037.png] 02/04/2025
+[atendimento_037.png] 02/04/2025
+[atendimento_037.png] 02/04/2025
+[atendimento_037.png] 02/04/2025
+[atendimento_037.png] 02/04/2025
+[atendimento_037.png] 02/04/2025
+[atendimento_037.png] 02/04/2025
+[atendimento_037.png] PA2 ENCERRA
+[atendimento_037.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP
+[atendimento_037.png] 0469/0933
+[atendimento_037.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_037.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_037.png] ESCOLA ALUNO NOME MOTIVO
+[atendimento_037.png] COMANDO ==> |
+[atendimento_037.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM
+[atendimento_037.png] 7 -PAGINA 8 +PAGINA 9 10 11
+[atendimento_037.png] 6 IMPRIME
+[atendimento_037.png] 12
+[atendimento_037.png] == Q PESQUISAR - (/ ) — -' ? 4 ç
+[atendimento_037.png] A
+[atendimento_037.png] POR
+[atendimento_037.png] PTB
+[atendimento_037.png] F1 T
+[atendimento_037.png] 01:06
+[atendimento_037.png] 15/04/2025
+[atendimento_038.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP 15/04/2025
+[atendimento_038.png] 0482/0933 038/072
+[atendimento_038.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_038.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_038.png] ESCOLA ALUNO NOME MOTIVO DATA INC
+[atendimento_038.png] E.M. THEMISTOCLES GA 3072657-3 ADRIEL DA SILVA E SILVA —ALU.INFR 02/04/2025
+[atendimento_038.png] COMANDO ==> | | PA2 ENCERRA
+[atendimento_038.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM 6 IMPRIME
+[atendimento_038.png] 7 -PAGINA 8 +PAGINA 9 10 11 12
+[atendimento_038.png] EE Q PESQUISAR ENEOM ' E X º O MM FD 15/04/021622
+[atendimento_039.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP 15/04/2025
+[atendimento_039.png] 0495/0933 039/072
+[atendimento_039.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_039.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_039.png] ESCOLA ALUNO NOME MOTIVO DATA INC
+[atendimento_039.png] COMANDO ==> | | PA2 ENCERRA
+[atendimento_039.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM 6 IMPRIME
+[atendimento_039.png] 7 -PAGINA 8 +PAGINA 9 10 11 12
+[atendimento_039.png] =M & ' — CM POR . 01:06
+[atendimento_039.png] EM Q PESQUISAR - O - > ú SE FS 15/04/2025
+[atendimento_040.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP 15/04/2025
+[atendimento_040.png] 0508/0933 040/072
+[atendimento_040.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_040.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_040.png] ESCOLA ALUNO NOME MOTIVO DATA INC
+[atendimento_040.png] E.M. SAO LUIS 2469298-0 EMILLY VITORIA SARMENTO .DIF.APRE 02/04/2025
+[atendimento_040.png] COMANDO ==> | | PA2 ENCERRA
+[atendimento_040.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM 6 IMPRIME
+[atendimento_040.png] 7 -PAGINA 8 +PAGINA 9 10 11 12
+[atendimento_040.png] == Q PESQUISAR - (/ ) — -' ? 4 ç
+[atendimento_040.png] A
+[atendimento_040.png] POR
+[atendimento_040.png] PTB
+[atendimento_040.png] F1 T
+[atendimento_040.png] 01:06
+[atendimento_040.png] 15/04/2025
+[atendimento_041.png] GESC/TRIAGEM
+[atendimento_041.png] 0521/0933
+[atendimento_041.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_041.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_041.png] TRIAGEM DE ENCAMINHAMENTOS ASP
+[atendimento_041.png] ESCOLA ALUNO NOME
+[atendimento_041.png] MMMMMMMMMMMMMMMMM
+[atendimento_041.png] Z ZZZZZZZZZZZ
+[atendimento_041.png] COMANDO ==> |
+[atendimento_041.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM
+[atendimento_041.png] 7 -PAGINA 8 +PAGINA 9 10 11
+[atendimento_041.png] MOTIVO
+[atendimento_041.png] ALU.
+[atendimento_041.png] ALU.
+[atendimento_041.png] DIF.
+[atendimento_041.png] DIF.
+[atendimento_041.png] ALU.
+[atendimento_041.png] ALU.
+[atendimento_041.png] ALU.
+[atendimento_041.png] ALU.
+[atendimento_041.png] ALU.
+[atendimento_041.png] ALU.
+[atendimento_041.png] ALU.
+[atendimento_041.png] ALU.
+[atendimento_041.png] ALU.
+[atendimento_041.png] INFR
+[atendimento_041.png] INFR
+[atendimento_041.png] COMP
+[atendimento_041.png] COMP
+[atendimento_041.png] INFR
+[atendimento_041.png] INFR
+[atendimento_041.png] INFR
+[atendimento_041.png] INFR
+[atendimento_041.png] INFR
+[atendimento_041.png] INFR
+[atendimento_041.png] INFR
+[atendimento_041.png] INFR
+[atendimento_041.png] INFR
+[atendimento_041.png] PA2
+[atendimento_041.png] 12
+[atendimento_041.png] 15/04/2025
+[atendimento_041.png] 041/072
+[atendimento_041.png] DATA INC
+[atendimento_041.png] 02/04/2025
+[atendimento_041.png] 02/04/2025
+[atendimento_041.png] 02/04/2025
+[atendimento_041.png] 02/04/2025
+[atendimento_041.png] 02/04/2025
+[atendimento_041.png] 02/04/2025
+[atendimento_041.png] 02/04/2025
+[atendimento_041.png] 02/04/2025
+[atendimento_041.png] 02/04/2025
+[atendimento_041.png] 02/04/2025
+[atendimento_041.png] 02/04/2025
+[atendimento_041.png] 02/04/2025
+[atendimento_041.png] 02/04/2025
+[atendimento_041.png] ENCERRA
+[atendimento_041.png] 6 IMPRIME
+[atendimento_041.png] == Q PESQUISAR - (/ ) — -' ? 4 ç
+[atendimento_041.png] A
+[atendimento_041.png] POR
+[atendimento_041.png] PTB
+[atendimento_041.png] F1 T
+[atendimento_041.png] 01:06
+[atendimento_041.png] 15/04/2025
+[atendimento_042.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP 15/04/2025
+[atendimento_042.png] 0534/0933 042/072
+[atendimento_042.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_042.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_042.png] ESCOLA ALUNO NOME MOTIVO DATA INC
+[atendimento_042.png] COMANDO ==> | | PA2 ENCERRA
+[atendimento_042.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM 6 IMPRIME
+[atendimento_042.png] 7 -PAGINA 8 +PAGINA 9 10 11 12
+[atendimento_042.png] =M & ' — CM POR . 01:06
+[atendimento_042.png] EM Q PESQUISAR - O - > ú SE FS 15/04/2025
+[atendimento_043.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP
+[atendimento_043.png] 15/04/2025
+[atendimento_043.png] 043/072
+[atendimento_043.png] DATA INC
+[atendimento_043.png] 02/04/2025
+[atendimento_043.png] 02/04/2025
+[atendimento_043.png] 02/04/2025
+[atendimento_043.png] 02/04/2025
+[atendimento_043.png] 02/04/2025
+[atendimento_043.png] 02/04/2025
+[atendimento_043.png] 02/04/2025
+[atendimento_043.png] 02/04/2025
+[atendimento_043.png] 02/04/2025
+[atendimento_043.png] 02/04/2025
+[atendimento_043.png] 02/04/2025
+[atendimento_043.png] 02/04/2025
+[atendimento_043.png] 02/04/2025
+[atendimento_043.png] PA2 ENCERRA
+[atendimento_043.png] 0547/0933
+[atendimento_043.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_043.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_043.png] ESCOLA ALUNO NOME MOTIVO
+[atendimento_043.png] COMANDO ==> |
+[atendimento_043.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM
+[atendimento_043.png] 7 -PAGINA 8 +PAGINA 9 10 11
+[atendimento_043.png] 6 IMPRIME
+[atendimento_043.png] 12
+[atendimento_043.png] == Q PESQUISAR - (/ ) — -' ? 4 ç
+[atendimento_043.png] A
+[atendimento_043.png] POR
+[atendimento_043.png] PTB
+[atendimento_043.png] F1 T
+[atendimento_043.png] 01:06
+[atendimento_043.png] 15/04/2025
+[atendimento_044.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP 15/04/2025
+[atendimento_044.png] 0560/0933 044/072
+[atendimento_044.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_044.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_044.png] ESCOLA ALUNO NOME MOTIVO DATA INC
+[atendimento_044.png] E.M. THEMISTOCLES GA 2166891-4 RAPHAEL NATANAEL SOARES —ALU.INFR 02/04/2025
+[atendimento_044.png] COMANDO ==> | | PA2 ENCERRA
+[atendimento_044.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM 6 IMPRIME
+[atendimento_044.png] 7 -PAGINA 8 +PAGINA 9 10 11 12
+[atendimento_044.png] =M & ' — CM POR . 01:06
+[atendimento_044.png] EM Q PESQUISAR - O - > ú SE FS 15/04/2025
+[atendimento_045.png] GESC/TRIAGEM
+[atendimento_045.png] 0573/0933
+[atendimento_045.png] TRIAGEM DE ENCAMINHAMENTOS ASP
+[atendimento_045.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_045.png] PóLO: 7 CEMASP LESTE II
+[atendimento_045.png] STATUS: 1 ENCAMINHADO
+[atendimento_045.png] 15/04/2025
+[atendimento_045.png] 045/072
+[atendimento_045.png] DATA INC
+[atendimento_045.png] 02/04/2025
+[atendimento_045.png] 02/04/2025
+[atendimento_045.png] 02/04/2025
+[atendimento_045.png] 02/04/2025
+[atendimento_045.png] 02/04/2025
+[atendimento_045.png] 02/04/2025
+[atendimento_045.png] 02/04/2025
+[atendimento_045.png] 02/04/2025
+[atendimento_045.png] 02/04/2025
+[atendimento_045.png] 02/04/2025
+[atendimento_045.png] 02/04/2025
+[atendimento_045.png] 02/04/2025
+[atendimento_045.png] 03/04/2025
+[atendimento_045.png] PA2 ENCERRA
+[atendimento_045.png] 6 IMPRIME
+[atendimento_045.png] ESCOLA ALUNO NOME MOTIVO
+[atendimento_045.png] COMANDO ==> |
+[atendimento_045.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM
+[atendimento_045.png] 7 -PAGINA 8 +PAGINA 9 10 11
+[atendimento_045.png] Q PESQUISAR
+[atendimento_045.png] 12
+[atendimento_045.png] AOMERIçSO
+[atendimento_045.png] A
+[atendimento_045.png] POR
+[atendimento_045.png] PTB
+[atendimento_045.png] F1 T
+[atendimento_045.png] 01:06
+[atendimento_045.png] 15/04/2025
+[atendimento_046.png] GESC/TRIAGEI|
+[atendimento_046.png] 0586/0933
+[atendimento_046.png] M
+[atendimento_046.png] TRIAGEM DE ENCAMINHAMENTOS ASP
+[atendimento_046.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_046.png] PóLO: 7 CEMASP LESTE II
+[atendimento_046.png] ESCOLA
+[atendimento_046.png] E.M. PAULO
+[atendimento_046.png] E.M. MOACIR
+[atendimento_046.png] E.M. PAULO
+[atendimento_046.png] E.M. RUBEM
+[atendimento_046.png] E.M. PAULO
+[atendimento_046.png] E.M. RUBEM
+[atendimento_046.png] CMEI MARIA
+[atendimento_046.png] E.M. RUBEM
+[atendimento_046.png] E.M. RUBEM
+[atendimento_046.png] E.M. RUBEM
+[atendimento_046.png] E.M. AMERIC
+[atendimento_046.png] E.M. RUBEM
+[atendimento_046.png] E.M.
+[atendimento_046.png] COMANDO ==> |
+[atendimento_046.png] PF 1 AJUDA
+[atendimento_046.png] 7 -PAGINA
+[atendimento_046.png] PINTO NER
+[atendimento_046.png] ELIAS
+[atendimento_046.png] PINTO NER
+[atendimento_046.png] SILVA PEI
+[atendimento_046.png] PINTO NER
+[atendimento_046.png] SILVA PEI
+[atendimento_046.png] EMILIA
+[atendimento_046.png] SILVA PEI
+[atendimento_046.png] SILVA PEI
+[atendimento_046.png] SILVA PEI
+[atendimento_046.png] O GOSZTON
+[atendimento_046.png] SILVA PEI
+[atendimento_046.png] MARIA AUXILIADO
+[atendimento_046.png] ALUNO
+[atendimento_046.png] STATUS: 1 ENCAMINHADO
+[atendimento_046.png] NOME
+[atendimento_046.png] PAULA GABRIELA REGIS SOA
+[atendimento_046.png] SALOMAO CALDEIRA VASCONC
+[atendimento_046.png] FERNANDO QUEIROZ MARINHO
+[atendimento_046.png] DEBORA GIOVANNA FERREIRA
+[atendimento_046.png] THAYLA DINIZ DOS SANTOS
+[atendimento_046.png] MIGUEL WILLIAMS DA SILVA
+[atendimento_046.png] THANATOS SARAEL DE OLIVE
+[atendimento_046.png] RAFAELLA ELOA BARROS MAT
+[atendimento_046.png] HELENA CECILIA MENDES XA
+[atendimento_046.png] EMANNUEL KAETHANO DE LIM
+[atendimento_046.png] ANA SOPHIA MACHADO DOS S
+[atendimento_046.png] BARBARA LUIZA RAMOS RIBE
+[atendimento_046.png] DANIEL RICARDO MENEZES M
+[atendimento_046.png] 2 MENU
+[atendimento_046.png] 3 SSISTEMAS — 4 RETORNA
+[atendimento_046.png] 8 +PAGINA 9
+[atendimento_046.png] EM Q PESQUISAR
+[atendimento_046.png] 10 11
+[atendimento_046.png] MOTI
+[atendimento_046.png] ALU.
+[atendimento_046.png] DIF.
+[atendimento_046.png] ALU.
+[atendimento_046.png] ALU.
+[atendimento_046.png] ALU.
+[atendimento_046.png] ALU.
+[atendimento_046.png] DIF.
+[atendimento_046.png] ALU.
+[atendimento_046.png] ALU.
+[atendimento_046.png] ALU.
+[atendimento_046.png] DIF.
+[atendimento_046.png] ALU.
+[atendimento_046.png] DIF.
+[atendimento_046.png] 5 TRIAGEM
+[atendimento_046.png] VO
+[atendimento_046.png] INFR
+[atendimento_046.png] COMP
+[atendimento_046.png] INFR
+[atendimento_046.png] INFR
+[atendimento_046.png] INFR
+[atendimento_046.png] INFR
+[atendimento_046.png] COMP
+[atendimento_046.png] INFR
+[atendimento_046.png] INFR
+[atendimento_046.png] INFR
+[atendimento_046.png] APRE
+[atendimento_046.png] INFR
+[atendimento_046.png] APRE
+[atendimento_046.png] PA2
+[atendimento_046.png] 12
+[atendimento_046.png] 15/04/2025
+[atendimento_046.png] 046/072
+[atendimento_046.png] DATA INC
+[atendimento_046.png] 03/04/2025
+[atendimento_046.png] 03/04/2025
+[atendimento_046.png] 03/04/2025
+[atendimento_046.png] 03/04/2025
+[atendimento_046.png] 03/04/2025
+[atendimento_046.png] 03/04/2025
+[atendimento_046.png] 03/04/2025
+[atendimento_046.png] 03/04/2025
+[atendimento_046.png] 03/04/2025
+[atendimento_046.png] 03/04/2025
+[atendimento_046.png] 03/04/2025
+[atendimento_046.png] 03/04/2025
+[atendimento_046.png] 03/04/2025
+[atendimento_046.png] ENCERRA
+[atendimento_046.png] 6 IMPRIME
+[atendimento_046.png] AOMERIçSO
+[atendimento_046.png] A
+[atendimento_046.png] POR
+[atendimento_046.png] PTB
+[atendimento_046.png] F1 T
+[atendimento_046.png] 01:06
+[atendimento_046.png] 15/04/2025
+[atendimento_047.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP 15/04/2025
+[atendimento_047.png] 0599/0933 047/072
+[atendimento_047.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_047.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_047.png] ESCOLA ALUNO NOME MOTIVO DATA INC
+[atendimento_047.png] E.M. SAO LUIS 2653995-0 ISABELA LOHANE DA SILVA —DIF.APRE 03/04/2025
+[atendimento_047.png] COMANDO ==> | | PA2 ENCERRA
+[atendimento_047.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM 6 IMPRIME
+[atendimento_047.png] 7 -PAGINA 8 +PAGINA 9 10 11 12
+[atendimento_047.png] EE Q PESQUISAR ENEOM ' E X º O MM FD 15/04/021622
+[atendimento_048.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP 15/04/2025
+[atendimento_048.png] 0612/0933 048/072
+[atendimento_048.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_048.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_048.png] ESCOLA ALUNO NOME MOTIVO DATA INC
+[atendimento_048.png] E.M. ALVARO VALE 2943869-1 KAIO LUCAS LIMA RAMIREZ —ALU.INFR 03/04/2025
+[atendimento_048.png] COMANDO ==> | | PA2 ENCERRA
+[atendimento_048.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM 6 IMPRIME
+[atendimento_048.png] 7 -PAGINA 8 +PAGINA 9 10 11 12
+[atendimento_048.png] == Q PESQUISAR - (/ ) — -' ? 4 ç
+[atendimento_048.png] A
+[atendimento_048.png] POR
+[atendimento_048.png] PTB
+[atendimento_048.png] F1 T
+[atendimento_048.png] 01:06
+[atendimento_048.png] 15/04/2025
+[atendimento_049.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP
+[atendimento_049.png] 15/04/2025
+[atendimento_049.png] 049/072
+[atendimento_049.png] DATA INC
+[atendimento_049.png] 03/04/2025
+[atendimento_049.png] 03/04/2025
+[atendimento_049.png] 03/04/2025
+[atendimento_049.png] 03/04/2025
+[atendimento_049.png] 03/04/2025
+[atendimento_049.png] 03/04/2025
+[atendimento_049.png] 03/04/2025
+[atendimento_049.png] 03/04/2025
+[atendimento_049.png] 03/04/2025
+[atendimento_049.png] 03/04/2025
+[atendimento_049.png] 03/04/2025
+[atendimento_049.png] 03/04/2025
+[atendimento_049.png] 03/04/2025
+[atendimento_049.png] PA2 ENCERRA
+[atendimento_049.png] 0625/0933
+[atendimento_049.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_049.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_049.png] ESCOLA ALUNO NOME MOTIVO
+[atendimento_049.png] COMANDO ==> |
+[atendimento_049.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM
+[atendimento_049.png] 7 -PAGINA 8 +PAGINA 9 10 11
+[atendimento_049.png] 6 IMPRIME
+[atendimento_049.png] 12
+[atendimento_049.png] == Q PESQUISAR - (/ ) — -' ? 4 ç
+[atendimento_049.png] A
+[atendimento_049.png] POR
+[atendimento_049.png] PTB
+[atendimento_049.png] F1 T
+[atendimento_049.png] 01:06
+[atendimento_049.png] 15/04/2025
+[atendimento_050.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP 15/04/2025
+[atendimento_050.png] 0638/0933 050/072
+[atendimento_050.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_050.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_050.png] ESCOLA ALUNO NOME MOTIVO DATA INC
+[atendimento_050.png] COMANDO ==> | | PA2 ENCERRA
+[atendimento_050.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM 6 IMPRIME
+[atendimento_050.png] 7 -PAGINA 8 +PAGINA 9 10 11 12
+[atendimento_050.png] == Q PESQUISAR - (/ ) — -' ? 4 ç
+[atendimento_050.png] A
+[atendimento_050.png] POR
+[atendimento_050.png] PTB
+[atendimento_050.png] F1 T
+[atendimento_050.png] 01:06
+[atendimento_050.png] 15/04/2025
+[atendimento_051.png] GESC/TRIAGEI|
+[atendimento_051.png] 0651/0933
+[atendimento_051.png] M
+[atendimento_051.png] TRIAGEM DE ENCAMINHAMENTOS ASP
+[atendimento_051.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_051.png] PóLO: 7 CEMASP LESTE II
+[atendimento_051.png] ESCOLA
+[atendimento_051.png] E.M. RUBEM
+[atendimento_051.png] E.M. RUBEM
+[atendimento_051.png] E.M. RUBEM
+[atendimento_051.png] E.M. RUBEM
+[atendimento_051.png] E.M. HIRAN
+[atendimento_051.png] E.M. SAO SE
+[atendimento_051.png] E.M. HIRAN
+[atendimento_051.png] E.M. PAULO
+[atendimento_051.png] E. M. ERICK
+[atendimento_051.png] E. M. ERICK
+[atendimento_051.png] E.M. HIRAN
+[atendimento_051.png] E.M. PAULO
+[atendimento_051.png] E.M. PAULO
+[atendimento_051.png] COMANDO ==> |
+[atendimento_051.png] PF 1 AJUDA
+[atendimento_051.png] 7 -PAGINA
+[atendimento_051.png] STATUS: 1 ENCAMINHADO
+[atendimento_051.png] 15/04/2025
+[atendimento_051.png] 051/072
+[atendimento_051.png] DATA INC
+[atendimento_051.png] 03/04/2025
+[atendimento_051.png] 03/04/2025
+[atendimento_051.png] 03/04/2025
+[atendimento_051.png] 03/04/2025
+[atendimento_051.png] 03/04/2025
+[atendimento_051.png] 03/04/2025
+[atendimento_051.png] 03/04/2025
+[atendimento_051.png] 03/04/2025
+[atendimento_051.png] 03/04/2025
+[atendimento_051.png] 03/04/2025
+[atendimento_051.png] 03/04/2025
+[atendimento_051.png] 03/04/2025
+[atendimento_051.png] 03/04/2025
+[atendimento_051.png] PA2 ENCERRA
+[atendimento_051.png] 6 IMPRIME
+[atendimento_051.png] ALUNO NOME MOTIVO
+[atendimento_051.png] |
+[atendimento_051.png] 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM
+[atendimento_051.png] 8 +PAGINA 9 10 11
+[atendimento_051.png] EM Q PESQUISAR
+[atendimento_051.png] 12
+[atendimento_051.png] AOMERIçSO
+[atendimento_051.png] A
+[atendimento_051.png] POR
+[atendimento_051.png] PTB
+[atendimento_051.png] F1 T
+[atendimento_051.png] 01:06
+[atendimento_051.png] 15/04/2025
+[atendimento_052.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP
+[atendimento_052.png] 15/04/2025
+[atendimento_052.png] 052/072
+[atendimento_052.png] DATA INC
+[atendimento_052.png] 03/04/2025
+[atendimento_052.png] 03/04/2025
+[atendimento_052.png] 03/04/2025
+[atendimento_052.png] 03/04/2025
+[atendimento_052.png] 03/04/2025
+[atendimento_052.png] 03/04/2025
+[atendimento_052.png] 03/04/2025
+[atendimento_052.png] 03/04/2025
+[atendimento_052.png] 03/04/2025
+[atendimento_052.png] 03/04/2025
+[atendimento_052.png] 03/04/2025
+[atendimento_052.png] 03/04/2025
+[atendimento_052.png] 03/04/2025
+[atendimento_052.png] PA2 ENCERRA
+[atendimento_052.png] 0664/0933
+[atendimento_052.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_052.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_052.png] ESCOLA ALUNO NOME MOTIVO
+[atendimento_052.png] COMANDO ==> |
+[atendimento_052.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM
+[atendimento_052.png] 7 -PAGINA 8 +PAGINA 9 10 11
+[atendimento_052.png] 6 IMPRIME
+[atendimento_052.png] 12
+[atendimento_052.png] == Q PESQUISAR - (/ ) — -' ? 4 ç
+[atendimento_052.png] A
+[atendimento_052.png] POR
+[atendimento_052.png] PTB
+[atendimento_052.png] F1 T
+[atendimento_052.png] 01:06
+[atendimento_052.png] 15/04/2025
+[atendimento_053.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP 15/04/2025
+[atendimento_053.png] 0677/0933 053/072
+[atendimento_053.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_053.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_053.png] ESCOLA ALUNO NOME MOTIVO DATA INC
+[atendimento_053.png] COMANDO ==> | | PA2 ENCERRA
+[atendimento_053.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM 6 IMPRIME
+[atendimento_053.png] 7 -PAGINA 8 +PAGINA 9 10 11 12
+[atendimento_053.png] EM Q PESQUISAR
+[atendimento_053.png] AOMERIçSO
+[atendimento_053.png] A
+[atendimento_053.png] POR
+[atendimento_053.png] PTB
+[atendimento_053.png] F1 T
+[atendimento_053.png] 01:06
+[atendimento_053.png] 15/04/2025
+[atendimento_054.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP 15/04/2025
+[atendimento_054.png] 0690/0933 054/072
+[atendimento_054.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_054.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_054.png] ESCOLA ALUNO NOME MOTIVO DATA INC
+[atendimento_054.png] COMANDO ==> | | PA2 ENCERRA
+[atendimento_054.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM 6 IMPRIME
+[atendimento_054.png] 7 -PAGINA 8 +PAGINA 9 10 11 12
+[atendimento_054.png] EE Q PESQUISAR ENEOM ' E X º O MM FD 15/04/021622
+[atendimento_055.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP 15/04/2025
+[atendimento_055.png] 0703/0933 055/072
+[atendimento_055.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_055.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_055.png] ESCOLA ALUNO NOME MOTIVO DATA INC
+[atendimento_055.png] COMANDO ==> | | PA2 ENCERRA
+[atendimento_055.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM 6 IMPRIME
+[atendimento_055.png] 7 -PAGINA 8 +PAGINA 9 10 11 12
+[atendimento_055.png] EE Q PESQUISAR ENEOM ' E X º O MM FD 15/04/021622
+[atendimento_056.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP 15/04/2025
+[atendimento_056.png] 0716/0933 056/072
+[atendimento_056.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_056.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_056.png] ESCOLA ALUNO NOME MOTIVO DATA INC
+[atendimento_056.png] E.M. DANILO MATOS AR 2840856-0 MARCOS GABRIEL DA SILVA —ALU.INFR 03/04/2025
+[atendimento_056.png] COMANDO ==> | | PA2 ENCERRA
+[atendimento_056.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM 6 IMPRIME
+[atendimento_056.png] 7 -PAGINA 8 +PAGINA 9 10 11 12
+[atendimento_056.png] EE Q PESQUISAR ENEOM ' E X º O MM FD 15/04/021622
+[atendimento_057.png] GESC/TRIAGEM
+[atendimento_057.png] 0729/0933
+[atendimento_057.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_057.png] PóLO: 7 CEMASP LESTE II
+[atendimento_057.png] TRIAGEM DE ENCAMINHAMENTOS ASP
+[atendimento_057.png] STATUS: 1 ENCAMINHADO
+[atendimento_057.png] 15/04/2025
+[atendimento_057.png] 057/072
+[atendimento_057.png] DATA INC
+[atendimento_057.png] 03/04/2025
+[atendimento_057.png] 03/04/2025
+[atendimento_057.png] 03/04/2025
+[atendimento_057.png] 03/04/2025
+[atendimento_057.png] 03/04/2025
+[atendimento_057.png] 03/04/2025
+[atendimento_057.png] 03/04/2025
+[atendimento_057.png] 03/04/2025
+[atendimento_057.png] 03/04/2025
+[atendimento_057.png] 03/04/2025
+[atendimento_057.png] 03/04/2025
+[atendimento_057.png] 03/04/2025
+[atendimento_057.png] 03/04/2025
+[atendimento_057.png] PA2 ENCERRA
+[atendimento_057.png] 6 IMPRIME
+[atendimento_057.png] ESCOLA ALUNO NOME MOTIVO
+[atendimento_057.png] COMANDO ==> |
+[atendimento_057.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM
+[atendimento_057.png] 7 -PAGINA 8 +PAGINA 9 10 11
+[atendimento_057.png] Q PESQUISAR
+[atendimento_057.png] 12
+[atendimento_057.png] AOMERIçSO
+[atendimento_057.png] A
+[atendimento_057.png] POR
+[atendimento_057.png] PTB
+[atendimento_057.png] F1 T
+[atendimento_057.png] 01:06
+[atendimento_057.png] 15/04/2025
+[atendimento_058.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP 15/04/2025
+[atendimento_058.png] 0742/0933 058/072
+[atendimento_058.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_058.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_058.png] ESCOLA ALUNO NOME MOTIVO DATA INC
+[atendimento_058.png] COMANDO ==> | | PA2 ENCERRA
+[atendimento_058.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM 6 IMPRIME
+[atendimento_058.png] 7 -PAGINA 8 +PAGINA 9 10 11 12
+[atendimento_058.png] EE Q PESQUISAR ENEOM ' E X º O MM FD 15/04/021622
+[atendimento_059.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP 15/04/2025
+[atendimento_059.png] 0755/0933 059/072
+[atendimento_059.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_059.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_059.png] ESCOLA ALUNO NOME MOTIVO DATA INC
+[atendimento_059.png] COMANDO ==> | | PA2 ENCERRA
+[atendimento_059.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM 6 IMPRIME
+[atendimento_059.png] 7 -PAGINA 8 +PAGINA 9 10 11 12
+[atendimento_059.png] EE Q PESQUISAR ENEOM ' E X º O MM FD 15/04/021622
+[atendimento_060.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP 15/04/2025
+[atendimento_060.png] 0768/0933 060/072
+[atendimento_060.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_060.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_060.png] ESCOLA ALUNO NOME MOTIVO DATA INC
+[atendimento_060.png] E. M. ERICK VICENTE . 3150736-0 MARCOS CRISTIANO PAIXAO —ALU.INFR 03/04/2025
+[atendimento_060.png] COMANDO ==> | | PA2 ENCERRA
+[atendimento_060.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM 6 IMPRIME
+[atendimento_060.png] 7 -PAGINA 8 +PAGINA 9 10 11 12
+[atendimento_060.png] EE Q PESQUISAR ENEOM ' E X º O MM FD 15/04/021622
+[atendimento_061.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP 15/04/2025
+[atendimento_061.png] 0781/0933 061/072
+[atendimento_061.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_061.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_061.png] ESCOLA ALUNO NOME MOTIVO DATA INC
+[atendimento_061.png] E
+[atendimento_061.png] E
+[atendimento_061.png] E
+[atendimento_061.png] E
+[atendimento_061.png] E
+[atendimento_061.png] E
+[atendimento_061.png] E
+[atendimento_061.png] COMANDO ==> | | PA2 ENCERRA
+[atendimento_061.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM 6 IMPRIME
+[atendimento_061.png] 7 -PAGINA 8 +PAGINA 9 10 11 12
+[atendimento_061.png] =M & ' — CM POR . O1:07
+[atendimento_061.png] EM Q PESQUISAR - O - > ú SE FS 15/04/2025
+[atendimento_062.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP 15/04/2025
+[atendimento_062.png] 0794/0933 062/072
+[atendimento_062.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_062.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_062.png] ESCOLA ALUNO NOME MOTIVO DATA INC
+[atendimento_062.png] COMANDO ==> | | PA2 ENCERRA
+[atendimento_062.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM 6 IMPRIME
+[atendimento_062.png] 7 -PAGINA 8 +PAGINA 9 10 11 12
+[atendimento_062.png] EM Q PESQUISAR
+[atendimento_062.png] AOMERIçSO
+[atendimento_062.png] A
+[atendimento_062.png] POR
+[atendimento_062.png] PTB
+[atendimento_062.png] F1 T
+[atendimento_062.png] 01:07
+[atendimento_062.png] 15/04/2025
+[atendimento_063.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP 15/04/2025
+[atendimento_063.png] 0807/0933 063/072
+[atendimento_063.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_063.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_063.png] ESCOLA ALUNO NOME MOTIVO DATA INC
+[atendimento_063.png] COMANDO ==> | | PA2 ENCERRA
+[atendimento_063.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM 6 IMPRIME
+[atendimento_063.png] 7 -PAGINA 8 +PAGINA 9 10 11 12
+[atendimento_063.png] EE Q PESQUISAR ENEOM ' E X º O MM FD 15/04/02162;
+[atendimento_064.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP 15/04/2025
+[atendimento_064.png] 0820/0933 064/072
+[atendimento_064.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_064.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_064.png] ESCOLA ALUNO NOME MOTIVO DATA INC
+[atendimento_064.png] E. M. ERICK VICENTE . 2842025-0 ALICE ISADORA SILVA DOS —ALU.INFR 03/04/2025
+[atendimento_064.png] E. M. ERICK VICENTE . 3045934-6 NICOLAS GABRIEL ALMEIDA —ALU.INFR 03/04/2025
+[atendimento_064.png] COMANDO ==> | | PA2 ENCERRA
+[atendimento_064.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM 6 IMPRIME
+[atendimento_064.png] 7 -PAGINA 8 +PAGINA 9 10 11 12
+[atendimento_064.png] EE Q PESQUISAR ENEOM ' E X º O MM FD 15/04/02162;
+[atendimento_065.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP 15/04/2025
+[atendimento_065.png] 0833/0933 065/072
+[atendimento_065.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_065.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_065.png] ESCOLA ALUNO NOME MOTIVO DATA INC
+[atendimento_065.png] MMMMMMMMMMMMMMMM
+[atendimento_065.png] Z ZZZZZZZZZZ
+[atendimento_065.png] COMANDO ==> | | PA2 ENCERRA
+[atendimento_065.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM 6 IMPRIME
+[atendimento_065.png] 7 -PAGINA 8 +PAGINA 9 10 11 12
+[atendimento_065.png] =M & ' — CM POR . O1:07
+[atendimento_065.png] EM Q PESQUISAR - O - > ú SE FS 15/04/2025
+[atendimento_066.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP
+[atendimento_066.png] 15/04/2025
+[atendimento_066.png] 066/072
+[atendimento_066.png] DATA INC
+[atendimento_066.png] 03/04/2025
+[atendimento_066.png] 03/04/2025
+[atendimento_066.png] 03/04/2025
+[atendimento_066.png] 03/04/2025
+[atendimento_066.png] 03/04/2025
+[atendimento_066.png] 03/04/2025
+[atendimento_066.png] 03/04/2025
+[atendimento_066.png] 03/04/2025
+[atendimento_066.png] 03/04/2025
+[atendimento_066.png] 03/04/2025
+[atendimento_066.png] 03/04/2025
+[atendimento_066.png] 03/04/2025
+[atendimento_066.png] 03/04/2025
+[atendimento_066.png] PA2 ENCERRA
+[atendimento_066.png] 0846/0933
+[atendimento_066.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_066.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_066.png] ESCOLA ALUNO NOME MOTIVO
+[atendimento_066.png] COMANDO ==> |
+[atendimento_066.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM
+[atendimento_066.png] 7 -PAGINA 8 +PAGINA 9 10 11
+[atendimento_066.png] 6 IMPRIME
+[atendimento_066.png] 12
+[atendimento_066.png] == Q PESQUISAR - (/ ) — -' ? 4 ç
+[atendimento_066.png] A
+[atendimento_066.png] POR
+[atendimento_066.png] PTB
+[atendimento_066.png] F1 T
+[atendimento_066.png] 01:07
+[atendimento_066.png] 15/04/2025
+[atendimento_067.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP 15/04/2025
+[atendimento_067.png] 0859/0933 067/072
+[atendimento_067.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_067.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_067.png] ESCOLA ALUNO NOME MOTIVO DATA INC
+[atendimento_067.png] COMANDO ==> | | PA2 ENCERRA
+[atendimento_067.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM 6 IMPRIME
+[atendimento_067.png] 7 -PAGINA 8 +PAGINA 9 10 11 12
+[atendimento_067.png] =M & ' — CM POR . O1:07
+[atendimento_067.png] EM Q PESQUISAR - O - > ú SE FS 15/04/2025
+[atendimento_068.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP 15/04/2025
+[atendimento_068.png] 0872/0933 068/072
+[atendimento_068.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_068.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_068.png] ESCOLA ALUNO NOME MOTIVO DATA INC
+[atendimento_068.png] E.M. PADRE JOAO D'VR 2823043-4 THEO ENZO BRANDAO SOUZA —DIF.FONO 03/04/2025
+[atendimento_068.png] E.M. DANILO MATOS AR 2736897-1 DAVI RAFAEL RAMOS COSTA .ALU.INFR 03/04/2025 EE
+[atendimento_068.png] COMANDO ==> | | PA2 ENCERRA
+[atendimento_068.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM 6 IMPRIME
+[atendimento_068.png] 7 -PAGINA 8 +PAGINA 9 10 11 12
+[atendimento_068.png] =M & ' — CM POR . O1:07
+[atendimento_068.png] EM Q PESQUISAR - O - > ú SE FS 15/04/2025
+[atendimento_069.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP 15/04/2025
+[atendimento_069.png] 0885/0933 069/072
+[atendimento_069.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_069.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_069.png] ESCOLA ALUNO NOME MOTIVO DATA INC
+[atendimento_069.png] COMANDO ==> | | PA2 ENCERRA
+[atendimento_069.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM 6 IMPRIME
+[atendimento_069.png] 7 -PAGINA 8 +PAGINA 9 10 11 12
+[atendimento_069.png] EM Q PESQUISAR
+[atendimento_069.png] AOMERIçSO
+[atendimento_069.png] A
+[atendimento_069.png] POR
+[atendimento_069.png] PTB
+[atendimento_069.png] F1 T
+[atendimento_069.png] 01:07
+[atendimento_069.png] 15/04/2025
+[atendimento_070.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP 15/04/2025
+[atendimento_070.png] 0898/0933 070/072
+[atendimento_070.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_070.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_070.png] ESCOLA ALUNO NOME MOTIVO DATA INC
+[atendimento_070.png] MMMMMMM
+[atendimento_070.png] Z ZZZZ
+[atendimento_070.png] COMANDO ==> | | PA2 ENCERRA
+[atendimento_070.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM 6 IMPRIME
+[atendimento_070.png] 7 -PAGINA 8 +PAGINA 9 10 11 12
+[atendimento_070.png] =M & ' — CM POR . O1:07
+[atendimento_070.png] EM Q PESQUISAR - O - > ú SE FS 15/04/2025
+[atendimento_071.png] GESC/TRIAGEM
+[atendimento_071.png] 0911/0933
+[atendimento_071.png] TRIAGEM DE ENCAMINHAMENTOS ASP
+[atendimento_071.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_071.png] PóLO: 7 CEMASP LESTE II
+[atendimento_071.png] STATUS: 1 ENCAMINHADO
+[atendimento_071.png] 15/04/2025
+[atendimento_071.png] 071/072
+[atendimento_071.png] DATA INC
+[atendimento_071.png] 03/04/2025
+[atendimento_071.png] 03/04/2025
+[atendimento_071.png] 03/04/2025
+[atendimento_071.png] 03/04/2025
+[atendimento_071.png] 03/04/2025
+[atendimento_071.png] 03/04/2025
+[atendimento_071.png] 03/04/2025
+[atendimento_071.png] 03/04/2025
+[atendimento_071.png] 03/04/2025
+[atendimento_071.png] 03/04/2025
+[atendimento_071.png] 03/04/2025
+[atendimento_071.png] 03/04/2025
+[atendimento_071.png] 03/04/2025
+[atendimento_071.png] PA2 ENCERRA
+[atendimento_071.png] 6 IMPRIME
+[atendimento_071.png] ESCOLA ALUNO NOME MOTIVO
+[atendimento_071.png] CIME PROF DR JOSE AL 24284/2-6 ELIZEU DO NASCIMENTO NEG ALU.INFR
+[atendimento_071.png] COMANDO ==> |
+[atendimento_071.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM
+[atendimento_071.png] 7 -PAGINA 8 +PAGINA 9 10 11
+[atendimento_071.png] Q PESQUISAR
+[atendimento_071.png] 12
+[atendimento_071.png] AOMERIçSO
+[atendimento_071.png] A
+[atendimento_071.png] POR
+[atendimento_071.png] PTB
+[atendimento_071.png] F1 T
+[atendimento_071.png] 01:07
+[atendimento_071.png] 15/04/2025
+[atendimento_072.png] NATNO012D - FIM DO ARQUIVO, TECLE <ENTER>
+[atendimento_072.png] GESC/TRIAGEM TRIAGEM DE ENCAMINHAMENTOS ASP 15/04/2025
+[atendimento_072.png] 0924/0933 072/072
+[atendimento_072.png] REDE ENSINO: MUNICIPAL MUNICíPIO: MANAUS
+[atendimento_072.png] PóLO: 7 CEMASP LESTE II STATUS: 1 ENCAMINHADO
+[atendimento_072.png] ESCOLA ALUNO NOME MOTIVO DATA INC
+[atendimento_072.png] E.M. ZENIR PINTO 2902564-8 SAMUEL CHRISTTIAN SILVA —IND.TDAH 03/04/2025
+[atendimento_072.png] COMANDO ==> | | PA2 ENCERRA
+[atendimento_072.png] PF 1 AJUDA 2 MENU 3 SSISTEMAS — 4 RETORNA 5 TRIAGEM 6 IMPRIME
+[atendimento_072.png] 7 -PAGINA 8 +PAGINA 9 10 11 12
+[atendimento_072.png] EE Q PESQUISAR ENEOM ' E X º O MM FD 15/04/02162;

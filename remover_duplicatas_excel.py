@@ -7,8 +7,12 @@ arquivo_saida = "./export/alunos_sem_duplicatas.xlsx"
 # Lê a planilha
 df = pd.read_excel(arquivo_entrada)
 
-# Remove duplicatas com base nas colunas-chave
-df_limpo = df.drop_duplicates(subset=["Aluno"], keep='first')
+# Limpa espaços e padroniza tudo
+for col in df.columns:
+    df[col] = df[col].astype(str).str.strip().str.upper()
+
+# Remove duplicatas **apenas se TODAS as colunas forem iguais**
+df_limpo = df.drop_duplicates(subset=["Aluno"], keep="first")
 
 # Salva em um novo arquivo Excel
 df_limpo.to_excel(arquivo_saida, index=False)
